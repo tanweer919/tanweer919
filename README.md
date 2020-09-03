@@ -1,10 +1,10 @@
-<p align="center">                                                                                                                  
-  <img src="https://raw.githubusercontent.com/ani4aniket/ani4aniket/master/icon/Cover.png">
-  <br/>
-  <br/>
-  <a href="https://ianiket.live"><img src="https://raw.githubusercontent.com/ani4aniket/ani4aniket/master/icon/Logo.png"></a>
-  <br/>  
-</p>
+<!--<p align="center">                                                                                                                  -->
+<!--  <img src="https://raw.githubusercontent.com/ani4aniket/ani4aniket/master/icon/Cover.png">-->
+<!--  <br/>-->
+<!--  <br/>-->
+<!--  <a href="https://ianiket.live"><img src="https://raw.githubusercontent.com/ani4aniket/ani4aniket/master/icon/Logo.png"></a>-->
+<!--  <br/>  -->
+<!--</p>-->
 <p align='center'>
 <a href="https://www.linkedin.com/in/ani4aniket/"><img height="30" src="https://raw.githubusercontent.com/ani4aniket/ani4aniket/master/icon/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://twitter/ani4aniket"><img height="30" src="https://raw.githubusercontent.com/ani4aniket/ani4aniket/master/icon/twitter.png"></a>&nbsp;&nbsp;
