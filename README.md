@@ -13,7 +13,7 @@
 </p>
 <p align='center'>
 <!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=ani4aniket.visitor-badge"> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ani4aniket&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanweer919&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 <!--   <br/> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ani4aniket&theme=dark&hide_langs_below=1" /> -->
 </p>
